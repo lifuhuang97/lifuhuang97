@@ -47,7 +47,10 @@
 
 <br />
 
-[website]: https://heuristic-perlman-bd8bcd.netlify.app/
+[website]: https://www.linkedin.com/in/lifuhuang97/
+<!---
+https://heuristic-perlman-bd8bcd.netlify.app/
+-->
 [webapp]: https://quirky-lichterman-efc9b4.netlify.app/
 [instagram]: https://www.instagram.com/lifu97__/
 [linkedin]: https://www.linkedin.com/in/lifuhuang97/
