@@ -1,6 +1,6 @@
 ### Hey there, I'm [Lifu][website] 👋
 
-- 🔭 I’m currently working on a [Recipe & Macros Tracker][webapp]!
+- 🔭 I’m currently working on a [Recipe & Macros Tracker][webapp] & [Price Comparison App][webapp2]!
 - 🌱 I’m currently learning React & Firebase to build full stack web apps
 - 🌱 I’m also practising data structure & algorithm questions
 - 👯 I’m looking to collaborate with other content creators to realize innovative ideas
@@ -53,6 +53,7 @@
 https://heuristic-perlman-bd8bcd.netlify.app/
 -->
 [webapp]: https://quirky-lichterman-efc9b4.netlify.app/
+[webapp2]: https://admiring-noether-c3bf69.netlify.app/
 [instagram]: https://www.instagram.com/lifu97__/
 [linkedin]: https://www.linkedin.com/in/lifuhuang97/
 
