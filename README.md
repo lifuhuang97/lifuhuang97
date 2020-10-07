@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning React & Firebase to build full stack web apps
 - 🌱 I’m also practising data structure & algorithm questions
 - 👯 I’m looking to collaborate with other content creators to realize innovative ideas
-- 🥅 2020 Goals: Perfect my existing projects and land a good internship
+- 🥅 2020 Goals: Perfect my existing projects and land a internship to hone my skills and improve myself
 
 ### Connect with me:
 <!---
