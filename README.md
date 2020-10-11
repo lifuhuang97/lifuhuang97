@@ -32,7 +32,7 @@
 
 [<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][nodejsdocs]
 
-[<img align="left" alt="Express" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" />][nodejsdocs]
+[<img align="left" alt="Express" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" />][expressdocs]
 
 [<img align="left" alt="Java" width="14px" height="23px" src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/1200px-Java_programming_language_logo.svg.png" />][javadocs]
 
@@ -66,7 +66,7 @@ https://heuristic-perlman-bd8bcd.netlify.app/
 [reactreduxdocs]: https://react-redux.js.org/
 [javadocs]: https://docs.oracle.com/en/java/javase/11/docs/api/index.html
 [nodejsdocs]: https://nodejs.org/en/docs/
-[expressdocs]: https://expressjs.com/
+[expressdocs]: https://expressjs.com/en/starter/hello-world.html
 [mongodbdocs]: https://docs.mongodb.com/
 [mysqldocs]: https://dev.mysql.com/doc/refman/8.0/en/
 [gitdocs]: https://git-scm.com/doc
