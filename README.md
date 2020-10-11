@@ -52,8 +52,8 @@
 <!---
 https://heuristic-perlman-bd8bcd.netlify.app/
 -->
-[webapp]: https://quirky-lichterman-efc9b4.netlify.app/
-[webapp2]: https://admiring-noether-c3bf69.netlify.app/
+[webapp]: https://github.com/lifuhuang97/Project-3---PrimeCut
+[webapp2]: https://github.com/wenruiq/haste
 [instagram]: https://www.instagram.com/lifu97__/
 [linkedin]: https://www.linkedin.com/in/lifuhuang97/
 
