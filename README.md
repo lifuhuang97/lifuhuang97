@@ -1,10 +1,9 @@
 ### Hey there, I'm [Lifu][website] 👋
 
-- 🔭 I’m currently working on a [Recipe & Macros Tracker][webapp] & [Price Comparison App][webapp2]!
 - 🌱 I’m currently learning React & Firebase to build full stack web apps
-- 🌱 I’m also practising data structure & algorithm questions
-- 👯 I’m looking to collaborate with other content creators to realize innovative ideas
-- 🥅 2020 Goals: Perfect my existing projects and land a internship to hone my skills and improve myself
+- 🌱 I’m also working on my data structure & algorithm skills
+- 👯 I’m looking to collaborate with other developers to realize innovative ideas
+- 🥅 2023 Goals: Become proficient in what I'm familiar with and land a internship to further develop my skills and understand the latest industry standards
 
 ### Connect with me:
 <!---
@@ -18,6 +17,9 @@
 ### Languages and Tools:
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][vscdocs]
+
+[<img align="left" alt="HTML5" width="26px" src="https://avatars.githubusercontent.com/u/14101776?s=48&v=4?raw=true" />][htmldocs]
+
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][htmldocs]
 
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][cssdocs]
