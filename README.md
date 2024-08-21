@@ -1,16 +1,14 @@
 ### Hey there, I'm [Lifu][website] 👋
-
+<!---
 - 🌱 I’m currently learning React & Firebase to build full stack web apps
 - 🌱 I’m also working on my data structure & algorithm skills
-- 👯 I’m looking to collaborate with other developers to realize innovative ideas
-- 🥅 2023 Goals: Become proficient in what I'm familiar with and land a internship to further develop my skills and understand the latest industry standards
+-->
 
 ### Connect with me:
 <!---
 [<img align="left" alt="lifu97.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 -->
 [<img align="left" alt="lifu97 | LinkedIn" width="22px" src="https://avatars.githubusercontent.com/u/357098?s=200&v=4?raw=true" />][linkedin]
-[<img align="left" alt="lifu97 | Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/1200px-Instagram_logo_2022.svg.png" />][instagram]
 
 <br />
 
